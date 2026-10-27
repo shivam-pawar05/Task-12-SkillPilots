@@ -1,0 +1,2 @@
+# No Python packages required.
+# Uses PowerShell, mysqldump, 7-Zip, and AWS CLI.
